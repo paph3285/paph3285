@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning cybersecurity in a MSDS class at the University of Colorado Boulder
 - 💞️ I’m looking to collaborate on ways to improve cleaning systems any to best track changes in the background
 - 📫 How to reach me (https://www.colorado.edu/center/cuchange/people/faculty-graduate-students-and-staff)
+- This is the beginning stages of my GitHub, please be patient.
 
 <!---
 paph3285/paph3285 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
